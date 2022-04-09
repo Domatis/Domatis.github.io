@@ -1,4 +1,4 @@
-<h1 style = "color:#000000"> Cem Bozkurt, Game Developer </h1>
+<h1 style = "color:#000000"> <b> Cem Bozkurt, Game Developer </b> </h1>
 
 <p> <b> Hello i am game developer since 2018, i am making games and game prototypes, you can find some games that i made in below. </b> </p>
 
