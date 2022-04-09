@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+
+<img src = "Images/ninja_ss1.png">
 
 You can use the [editor on GitHub](https://github.com/Domatis/Domatis.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
