@@ -1,5 +1,5 @@
+# Cem Bozkurt, Game Developer
 
-# Game Developer
 
 <img src = "Images/ninja_ss1.png">
 
